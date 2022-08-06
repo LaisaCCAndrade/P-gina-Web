@@ -1,0 +1,435 @@
+.boxMain{
+    font-family: 'Poppins', sem serifa;
+    display: flex;
+    position: absolute;
+    width: 1300px;
+    height: 58px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 40px -15px rgba(0, 0, 0, 0.25);
+}
+.titulo h1{
+    position: absolute;
+    width: 97px;
+    height: 30px;
+    left: 602px;
+    top: 0;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 32px;
+    color: #0D0D0E;
+}
+.espaca1{
+    position: absolute;
+    width: 287px;
+    height: 343px;
+    left: 162px;
+    top: 99px;
+}
+.primeiro img{
+    position: absolute;
+    width: 286px;
+    height: 175px;
+    left: 162px;
+    top: 99px;
+    background: url(.jpg), #F3F4F5;
+    border-radius: 8px;
+}
+.primeiro figcaption{
+    position: absolute;
+    width: 286px;
+    height: 48px;
+    left: 163px;
+    top: 290px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #0D0D0E;
+
+}
+.primeiro .paragrafo{
+    position: absolute;
+    width: 269px;
+    height: 48px;
+    left: 163px;
+    top: 354px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    color: #343A40;
+}
+.primeiro .entreterimento{
+    position: absolute;
+    width: 89px;
+    height: 24px;
+    left: 171px;
+    top: 418px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    color: #343A40;
+}
+.primeiro .curiosidade{
+    position: absolute;
+    width: 76px;
+    height: 24px;
+    left: 281px;
+    top: 418px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    color: #343A40;
+
+}
+.espaco2{
+    position: absolute;
+    width: 287px;
+    height: 343px;
+    left: 10px;
+    top: 3px;
+}
+.segundo img{
+    position: absolute;
+    width: 286px;
+    height: 175px;
+    left: 469px;
+    top: 96px;
+    background: url(.jpg), #F3F4F5;
+    border-radius: 8px;
+}
+.segundo figcaption{
+    position: absolute;
+    width: 286px;
+    height: 48px;
+    left: 472px;
+    top: 290px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0D0D0E;
+}
+.segundo .paragrafo2{
+    position: absolute;
+    width: 269px;
+    height: 48px;
+    left: 472px;
+    top: 350px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    color: #343A40;
+}
+.segundo .dicas{
+    position: absolute;
+    width: 32px;
+    height: 30px;
+    left: 480px;
+    top: 427px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    color: #343A40;
+}
+.espaco3{
+    position: absolute;
+    width: 100px;
+    height: 200px;
+    left: 5px;
+    top: 10px;
+}
+.terceiro img{
+    position: absolute;
+    width: 280px;
+    height: 175px;
+    left: 160px;
+    top: 497px;
+    background: url(.jpg), #F3F4F5;
+    border-radius: 8px;
+}
+.terceiro figcaption{
+    position: absolute;
+    width: 286px;
+    height: 48px;
+    left: 161px;
+    top: 688px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0D0D0E;
+}
+.terceiro .paragrafo3{
+    position: absolute;
+    width: 269px;
+    height: 48px;
+    left: 161px;
+    top: 752px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    color: #343A40; 
+}
+.terceiro .dica{
+    position: absolute;
+    width: 32px;
+    height: 24px;
+    left: 169px;
+    top: 816px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    color: #343A40;
+}
+.espaca4{
+    position: absolute;
+    width: 287px;
+    height: 343px;
+    left: 469px;
+    top: 497px;
+}
+.quarto img{
+    position: absolute;
+    width: 286px;
+    height: 175px;
+    left: 475px;
+    top: 506px;
+    background: url(.jpg), #F3F4F5;
+    border-radius: 8px;
+}
+.quarto figcaption{
+    position: absolute;
+    width: 286px;
+    height: 48px;
+    left: 470px;
+    top: 698px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0D0D0E;
+}
+.quarto .paragrafo4{
+    position: absolute;
+    width: 269px;
+    height: 48px;
+    left: 470px;
+    top: 762px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    color: #343A40;
+}
+.quarto .novidades{
+    position: absolute;
+    width: 62px;
+    height: 24px;
+    left: 478px;
+    top: 825px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 24px;
+    color: #343A40;
+}
+.espaco{
+    position: absolute;
+    width: 298px;
+    height: 58px;
+    left: 3px;
+    top: 4px; 
+}
+.titulo2{
+    position: absolute;
+    width: 129px;
+    height: 22px;
+    left: 840px;
+    top: 80px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #0D0D0E;
+}
+.lateral1 img{
+    position: absolute;
+    width: 70px;
+    height: 58px;
+    left: 840px;
+    top: 170px;
+}
+.lateral1 figcaption{
+    position: absolute;
+    width: 211px;
+    height: 48px;
+    left: 927px;
+    top: 175px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0D0D0E;
+}
+.lateral2 img{
+    position: absolute;
+    width: 70px;
+    height: 58px;
+    left: 840px;
+    top: 245px;
+    background: url(.jpg), #E8E8E8;
+    border-radius: 8px;
+}
+.lateral2 figcaption{
+    position: absolute;
+    width: 211px;
+    height: 48px;
+    left: 927px;
+    top: 250px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0D0D0E;
+}
+.lateral3 img{
+    position: absolute;
+    width: 70px;
+    height: 58px;
+    left: 840px;
+    top: 320px;
+    background: url(.jpg), #E8E8E8;
+    border-radius: 8px;
+}
+.lateral3 figcaption{
+    position: absolute;
+    width: 211px;
+    height: 48px;
+    left: 927px;
+    top: 325px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0D0D0E;
+}
+.titulo3{
+    position: absolute;
+    width: 121px;
+    height: 22px;
+    left: 840px;
+    top: 400px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #0D0D0E;
+}
+.lateral4 img{
+    position: absolute;
+    width: 70px;
+    height: 58px;
+    left: 840px;
+    top: 490px;
+    background: url(.jpg), #E8E8E8;
+    border-radius: 8px;
+}
+.lateral4 figcaption{
+    position: absolute;
+    width: 211px;
+    height: 48px;
+    left: 927px;
+    top: 495px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0D0D0E;
+}
+.lateral5 img{
+    position: absolute;
+    width: 70px;
+    height: 58px;
+    left: 840px;
+    top: 565px;
+    background: url(.jpg), #E8E8E8;
+    border-radius: 8px;
+}
+.lateral5 figcaption{
+    position: absolute;
+    width: 211px;
+    height: 48px;
+    left: 927px;
+    top: 570px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0D0D0E;
+}
+.lateral6 img{
+    position: absolute;
+    width: 70px;
+    height: 58px;
+    left: 840px;
+    top: 640px;
+    background: url(.jpg), #E8E8E8;
+    border-radius: 8px;
+}
+.lateral6 figcaption{
+    position: absolute;
+    width: 211px;
+    height: 48px;
+    left: 927px;
+    top: 645px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0D0D0E;
+}
+.rodape{
+    position: absolute;
+    width: 1300px;
+    height: 105px;
+    left: 0px;
+    top: 876px;
+    background: #0D0D0E;
+    border: 50px;
+}
+.see{
+    position: absolute;
+    width: 97px;
+    height: 30px;
+    left: 160px;
+    top: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #F3F4F5;
+}
+.rodape img{
+    position: absolute;
+    left: 917px;
+    right: 25px;
+    top: 40px;
+    bottom: 8.33px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+}
+.rodape .insta{
+    position: absolute;
+    left: 1000px;
+    right: 80px;
+    top: 49px;
+    bottom: 8,33px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+}
+.rodape .insta2{
+    position: absolute;
+    left: 991px;
+    right: 80px;
+    top: 40px;
+    bottom: 8,33px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+}
+.rodape .coment{
+    position: absolute;
+    left: 1070px;
+    right: 125px;
+    top: 40px;
+    bottom: 8.33px;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+}
+
+
+
+
